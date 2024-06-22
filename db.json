@@ -239,53 +239,84 @@
   ],
   "ponentes": [
     {
-      "id": 30,
-      "imagen": "",
-      "nombre": "Carlos Yunior Polanía Zamora",
-      "descripcion": "Profesional Especializado del Grupo de Referencias<br/>Subdirección de Referentes y Evaluación de la Calidad Eduacativa",
-      "url": ""
-    },
-    {
-      "id": 31,
-      "imagen": "",
-      "nombre": "Ruth Molina Vásquez",
-      "descripcion": "Doctora en Educación. Tesis: Construcción del concepto de tecnología en una red virtual de aprendizaje<br/>Universidad Distrital Francisco José de Caldas<br/>Magister en Tecnologías de la Información Aplicadas a la Educación<br/>Universidad Pedagógica Nacional",
-      "url": ""
-    },
-    {
-      "id": 32,
-      "imagen": "",
-      "nombre": "Carlos Yunior Polanía Zamora",
-      "descripcion": "Profesional Especializado del Grupo de Referencias<br/>Subdirección de Referentes y Evaluación de la Calidad Eduacativa",
-      "url": ""
-    },
-    {
-      "id": 33,
-      "imagen": "",
-      "nombre": "Laura Niño",
-      "descripcion": "---",
-      "url": ""
-    },
-    {
-      "id": 34,
-      "imagen": "",
-      "nombre": "Libardo Acero",
-      "descripcion": "---",
-      "url": ""
-    },
-    {
-      "id": 35,
-      "imagen": "",
-      "nombre": "Andrés Gallego",
-      "descripcion": "---",
-      "url": ""
-    },
-    {
-      "id": 36,
-      "imagen": "",
-      "nombre": "Rodolfo Orjuela",
-      "descripcion": "---",
-      "url": ""
-    }
+    "id": 30,
+    "imagen": "",
+    "nombre": "Erica Yong Castillo",
+    "descripcion": "Subdirectora de Educación Virtual, Universidad Colegio Mayor de Cundinamarca",
+    "orden": 1,
+    "url": ""
+  },
+  {
+    "id": 31,
+    "imagen": "",
+    "nombre": "Carlos Yunior Polanía Zamora",
+    "descripcion": "Profesional Especializado del Grupo de Referencias<br/>Subdirección de Referentes y Evaluación de la Calidad Eduacativa",
+    "orden": 2,
+    "url": ""
+  },
+  {
+    "id": 32,
+    "imagen": "",
+    "nombre": "Ruth Molina Vásquez",
+    "descripcion": "Doctora en Educación. Tesis: Construcción del concepto de tecnología en una red virtual de aprendizaje<br/>Universidad Distrital Francisco José de Caldas<br/>Magister en Tecnologías de la Información Aplicadas a la Educación<br/>Universidad Pedagógica Nacional",
+    "orden": 3,
+    "url": ""
+  },
+  {
+    "id": 33,
+    "imagen": "",
+    "nombre": "Carlos Yunior Polanía Zamora",
+    "descripcion": "Profesional Especializado del Grupo de Referencias<br/>Subdirección de Referentes y Evaluación de la Calidad Eduacativa",
+    "orden": 4,
+    "url": ""
+  },
+  {
+    "id": 34,
+    "imagen": "",
+    "nombre": "Laura Niño",
+    "descripcion": "Profesional Especializada",
+    "orden": 7,
+    "url": ""
+  },
+  {
+    "id": 35,
+    "imagen": "",
+    "nombre": "Libardo Acero",
+    "descripcion": "Profesional Especializado",
+    "orden": 5,
+    "url": ""
+  },
+  {
+    "id": 36,
+    "imagen": "",
+    "nombre": "Andrés Gallego",
+    "descripcion": "Profesional Especializado",
+    "orden": 6,
+    "url": ""
+  },
+  {
+    "id": 37,
+    "imagen": "",
+    "nombre": "Rodolfo Orjuela",
+    "descripcion": "Profesional Especializado",
+    "orden": 8,
+    "url": ""
+  },
+  {
+    "id": 38,
+    "imagen": "",
+    "nombre": "Luz Magally Pérez Rodríguez",
+    "descripcion": "Invitada nacional<br />Coordinadora Grupo de Referentes<br />Subdirección de Referentes y Evaluación de la Calidad Educativa",
+    "orden": 9,
+    "url": ""
+  },
+  {
+    "id": 39,
+    "imagen": "",
+    "nombre": "José cabrera Paz",
+    "descripcion": "Invitado Internacional<br />Master Sociedad de la Información y el Conocimiento. Universidad Oberta de Cataluña.<br />Doctorado Comunicación Univerisdad Nacional de la Plata, Argentina.",
+    "orden": 10,
+    "url": ""
+  }
   ]
 }
