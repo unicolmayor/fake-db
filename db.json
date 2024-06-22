@@ -1,0 +1,291 @@
+{
+  "colombia": [
+    {
+      "id": 1,
+      "agenda": "EXPOSICIONES DE POSTER",
+      "horaInicio": "2024-09-04T13:00:00.000Z",
+      "horaFinal": "2024-09-04T16:15:00.000Z",
+      "tematica": "POSTER",
+      "participantes": "<p>Subdirección de Educación Virtual.<br/>Ponentes - Poster estudiantes y Semilleros de Investigación recibidos</p>"
+    },
+    {
+      "id": 2,
+      "agenda": "",
+      "horaInicio": "2024-09-04T16:15:00.000Z",
+      "horaFinal": "2024-09-04T17:00:00.000Z",
+      "tematica": "<p>Actividad de cierre de la jornada<br/>Ceremonia de clausura y entrega de certificados</p>",
+      "participantes": ""
+    }
+  ],
+  "maxima": [
+    {
+      "id": 3,
+      "agenda": "ACTO DE APERTURA",
+      "horaInicio": "2024-09-04T08:00:00.000Z",
+      "horaFinal": "2024-09-04T08:30:00.000Z",
+      "tematica": "Inauguración <b>Primer Congreso Internacional de Humanidades tecnológicas: Educación e innovación en la era digital.</b>",
+      "participantes": "<p>Dra. María Ruth Hernández Martínez<br\\>Rectora</p>"
+    },
+    {
+      "id": 4,
+      "agenda": "",
+      "horaInicio": "2024-09-04T08:30:00.000Z",
+      "horaFinal": "2024-09-04T08:00:00.000Z",
+      "tematica": "<p>Palabras de apertura:</p><ul><li>Vicerrectoría académica</li><li>SEV - Escuela Virtual</li></ul>",
+      "participantes": "<p>Dra. Maricela Botero<br\\>Vicerrectora Académica</p><p>Dra. Erica Yong<br\\>Subdirectora Educación Virtual UCMC</p>"
+    },
+    {
+      "id": 5,
+      "agenda": "CONFERENCIA INAGURAL",
+      "horaInicio": "2024-09-04T09:00:00.000Z",
+      "horaFinal": "2024-09-04T09:45:00.000Z",
+      "tematica": "<p>Tema: <b>Humanidades Tecnológicas - Digitales y las Conexiones Educativas 4.0</b></p><ul><li>Exploraremos cómo las tecnologías digitales están transformando las humanidades y su impacto en la educación.</li><li>Conexiones entre las humanidades y la era digital.</li><li>Estrategias para integrar las humanidades tecnológicas en el currículo educativo.</li></ul>",
+      "participantes": "<p>Por CONFIRMAR</p><p>Carlos Yunior Polanía Zamora<br/>Profesional Especializado del Grupo de Referencias<br/>Subdirección de Referentes y Evaluación de la Calidad Eduacativa</p><p>Ruth Molina Vásquez<br/>Doctora en Educación. Tesis: Construcción del concepto de tecnología en una red virtual de aprendizaje<br/>Universidad Distrital Francisco José de Caldas<br/>Magister en Tecnologías de la Información Aplicadas a la Educación<br/>Universidad Pedagógica Nacional</p>"
+    },
+    {
+      "id": 6,
+      "agenda": "",
+      "horaInicio": "2024-09-04T09:45:00.000Z",
+      "horaFinal": "2024-09-04T10:00:00.000Z",
+      "tematica": "Receso - Video presentación de la Escuela Virtual",
+      "participantes": ""
+    },
+    {
+      "id": 7,
+      "agenda": "Panel 1",
+      "horaInicio": "2024-09-04T10:00:00.000Z",
+      "horaFinal": "2024-09-04T10:45:00.000Z",
+      "tematica": "<p>Tema: <b>Educar en la Era Digital: Innovación Educativa e E-Learning</b></p><ul><li>Analizaremos las mejores prácticas para la enseñanza en entornos digitales.<li>Innovación educativa en la era digital.</li></ul>",
+      "participantes": "<p>Profesores de la SEV</p><p>Erica, Laura Niño, Libardo Acero, Andrés Gallego y Rodolfo Orjuela</p><p>Profesores invitados por definir</p>"
+    },
+    {
+      "id": 8,
+      "agenda": "",
+      "horaInicio": "2024-09-04T10:45:00.000Z",
+      "horaFinal": "2024-09-04T11:00:00.000Z",
+      "tematica": "<p>Preguntas directas moderadas</p>",
+      "participantes": "<p>Profesores de la SEV</p>"
+    },
+    {
+      "id": 9,
+      "agenda": "Conferencia 2",
+      "horaInicio": "2024-09-04T11:00:00.000Z",
+      "horaFinal": "2024-09-04T11:45:00.000Z",
+      "tematica": "<p>Tema 1: <b>Metaverso Educativo como Proyecto Dimensional y Epistemológico de E-Learning (Inclusivo)</p><li>Profundizaremos en el concepto de metaverso y su aplicación en la educación.</li><li>Dimensiones y posibilidades del metaverso en el aprendizaje.</li><li>Estrategias para crear experiencias inclusivas en el metaverso educativo.</li></ul><p>Tema 2: <b>Lanzamiento Cátedra Virtual de interculturalidad</b><br/>Oficina de Relaciones Interinstitucionales</p>",
+      "participantes": "<p>Por definir<br/>Proveedor del Metaverso</p><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul><p>Lanzamiento Cátedra Virtual de interculturalidad<br/>Oficina de Relaciones Interinstitucionales<br/>Sandra Saenz</p>"
+    },
+    {
+      "id": 10,
+      "agenda": "",
+      "horaInicio": "2024-09-04T11:45:00.000Z",
+      "horaFinal": "2024-09-04T12:00:00.000Z",
+      "tematica": "<p>Preguntas directas moderadas</p>",
+      "participantes": "<p>Profesores de la SEV</p>"
+    },
+    {
+      "id": 11,
+      "agenda": "",
+      "horaInicio": "2024-09-04T12:00:00.000Z",
+      "horaFinal": "2024-09-04T13:00:00.000Z",
+      "tematica": "<p>Almuerzo</p>",
+      "participantes": ""
+    },
+    {
+      "id": 12,
+      "agenda": "Panel 2",
+      "horaInicio": "2024-09-04T13:00:00.000Z",
+      "horaFinal": "2024-09-04T13:45:00.000Z",
+      "tematica": "<p>Tema: <b>Aprendizaje Virtual y más en los entornos para la Gestión del Conocimiento</b></p><ul><li>Exploraremos cómo el aprendizaje virtual se integra con la gestión del conocimiento.</li><li>Herramientas y recursos para el aprendizaje virtual.</li><li>Casos de éxito en la implementación de entornos virtuales para la gestión del conocimiento.</li></ul>",
+      "participantes": "<p>Por CONFIRMAR</p><p>Erica Yong Castillo<br/>Subdirectora Educación Virtual<br/>UCMC</p><h4>Invitados nacionales</h4><p>Luz Magally Pérez Rodríguez</br>Coordinadora Grupo de Referentes<br/>Subdirección de Referentes y Evaluación de la Calidad Educativa</p>"
+    },
+    {
+      "id": 13,
+      "agenda": "",
+      "horaInicio": "2024-09-04T13:45:00.000Z",
+      "horaFinal": "2024-09-04T14:00:00.000Z",
+      "tematica": "<p>Preguntas directas moderadas</p>",
+      "participantes": "<p>Profesores de la SEV</p>"
+    },
+    {
+      "id": 14,
+      "agenda": "",
+      "horaInicio": "2024-09-04T14:00:00.000Z",
+      "horaFinal": "2024-09-04T14:15:00.000Z",
+      "tematica": "<p>Receso - Video presentación de la Escuela Virtual</p>",
+      "participantes": ""
+    },
+    {
+      "id": 15,
+      "agenda": "Conferencia 3",
+      "horaInicio": "2024-09-04T14:15:00.000Z",
+      "horaFinal": "2024-09-04T15:00:00.000Z",
+      "tematica": "<p>Tema: <b>E-Learning y la transformación de la educación</b></p><ul><li>El papel del E-Learning en la transformación de la educación.</li></ul>",
+      "participantes": "<h4>Invitado Internacional</h4><p>José cabrera Paz<br/>Master Sociedad de la Información y el Conocimiento. Universidad Oberta de Cataluña.<br/>Doctorado Comunicación Univerisdad Nacional de la Plata, Argentina.</p>"
+    },
+    {
+      "id": 16,
+      "agenda": "",
+      "horaInicio": "2024-09-04T15:00:00.000Z",
+      "horaFinal": "2024-09-04T15:15:00.000Z",
+      "tematica": "<p>Preguntas directas moderadas</p>",
+      "participantes": "<p>Profesores de la SEV</p>"
+    },
+    {
+      "id": 17,
+      "agenda": "Panel 3",
+      "horaInicio": "2024-09-04T15:15:00.000Z",
+      "horaFinal": "2024-09-04T16:00:00.000Z",
+      "tematica": "<p>Conferencia de clausura: <b>\"Humanidades Tecnológicas y el Impacto Social de las Tecnologías Emergentes\"</b></p>",
+      "participantes": "<p>Por definir</p>"
+    },
+    {
+      "id": 18,
+      "agenda": "",
+      "horaInicio": "2024-09-04T16:00:00.000Z",
+      "horaFinal": "2024-09-04T16:15:00.000Z",
+      "tematica": "<p>Preguntas directas moderadas por profesores de la Subdirección de Educación Virtual.</p>",
+      "participantes": ""
+    },
+    {
+      "id": 19,
+      "agenda": "",
+      "horaInicio": "2024-09-04T16:15:00.000Z",
+      "horaFinal": "2024-09-04T17:00:00.000Z",
+      "tematica": "<p>Actividad de cierre de la jornada<br/>Ceremonia de clausura y entrega de certificados</p>",
+      "participantes": ""
+    }
+  ],
+  "multiple": [
+    {
+      "id": 20,
+      "agenda": "",
+      "horaInicio": "2024-09-04T08:00:00.000Z",
+      "horaFinal": "2024-09-04T09:45:00.000Z",
+      "tematica": "<p>Apertura y Conferencia inaugural</p>",
+      "participantes": "<p>Aula máxima</p>"
+    },
+    {
+      "id": 21,
+      "agenda": "",
+      "horaInicio": "2024-09-04T09:45:00.000Z",
+      "horaFinal": "2024-09-04T10:00:00.000Z",
+      "tematica": "<p>Receso - Video SEV - innovación</p>",
+      "participantes": ""
+    },
+    {
+      "id": 22,
+      "agenda": "PONENCIAS",
+      "horaInicio": "2024-09-04T10:00:00.000Z",
+      "horaFinal": "2024-09-04T11:00:00.000Z",
+      "tematica": "<p>MESA TEMÁTICA 1<br/>PONENCIAS<br/>Cierre de la mesa</p>",
+      "participantes": "<p>Subdirección de Educación Virtual.<br/>Ponentes - ponencias recibidas</p>"
+    },
+    {
+      "id": 23,
+      "agenda": "PONENCIAS",
+      "horaInicio": "2024-09-04T11:00:00.000Z",
+      "horaFinal": "2024-09-04T12:00:00.000Z",
+      "tematica": "<p>MESA TEMÁTICA 2<br/>PONENCIAS</p>",
+      "participantes": "<p>Subdirección de Educación Virtual.<br/>Ponentes - ponencias recibidas</p>"
+    },
+    {
+      "id": 24,
+      "agenda": "",
+      "horaInicio": "2024-09-04T12:00:00.000Z",
+      "horaFinal": "2024-09-04T13:00:00.000Z",
+      "tematica": "<p>Almuerzo</p>",
+      "participantes": ""
+    },
+    {
+      "id": 25,
+      "agenda": "PONENCIAS",
+      "horaInicio": "2024-09-04T13:00:00.000Z",
+      "horaFinal": "2024-09-04T14:00:00.000Z",
+      "tematica": "<p>MESA TEMÁTICA 3<br/>PONENCIAS</p>",
+      "participantes": "<p>Subdirección de Educación Virtual.<br/>Ponentes - ponencias recibidas</p>"
+    },
+    {
+      "id": 26,
+      "agenda": "PONENCIAS",
+      "horaInicio": "2024-09-04T14:00:00.000Z",
+      "horaFinal": "2024-09-04T15:00:00.000Z",
+      "tematica": "<p>MESA TEMÁTICA 4<br/>PONENCIAS</p>",
+      "participantes": "<p>Subdirección de Educación Virtual.<br/>Ponentes - ponencias recibidas</p>"
+    },
+    {
+      "id": 27,
+      "agenda": "PONENCIAS",
+      "horaInicio": "2024-09-04T15:00:00.000Z",
+      "horaFinal": "2024-09-04T16:00:00.000Z",
+      "tematica": "<p>MESA TEMÁTICA 5<br/>PONENCIAS</p>",
+      "participantes": "<p>Subdirección de Educación Virtual.<br/>Ponentes - ponencias recibidas</p>"
+    },
+    {
+      "id": 28,
+      "agenda": "",
+      "horaInicio": "2024-09-04T16:00:00.000Z",
+      "horaFinal": "2024-09-04T16:15:00.000Z",
+      "tematica": "<p>DEBATE</p>",
+      "participantes": ""
+    },
+    {
+      "id": 29,
+      "agenda": "",
+      "horaInicio": "2024-09-04T16:15:00.000Z",
+      "horaFinal": "2024-09-04T17:00:00.000Z",
+      "tematica": "<p>Actividad de cierre de la jornada<br/>Ceremonia de clausura y entrega de certificados</p>",
+      "participantes": ""
+    }
+  ],
+  "ponentes": [
+    {
+      "id": 30,
+      "imagen": "",
+      "nombre": "Carlos Yunior Polanía Zamora",
+      "descripcion": "Profesional Especializado del Grupo de Referencias<br/>Subdirección de Referentes y Evaluación de la Calidad Eduacativa",
+      "url": ""
+    },
+    {
+      "id": 31,
+      "imagen": "",
+      "nombre": "Ruth Molina Vásquez",
+      "descripcion": "Doctora en Educación. Tesis: Construcción del concepto de tecnología en una red virtual de aprendizaje<br/>Universidad Distrital Francisco José de Caldas<br/>Magister en Tecnologías de la Información Aplicadas a la Educación<br/>Universidad Pedagógica Nacional",
+      "url": ""
+    },
+    {
+      "id": 32,
+      "imagen": "",
+      "nombre": "Carlos Yunior Polanía Zamora",
+      "descripcion": "Profesional Especializado del Grupo de Referencias<br/>Subdirección de Referentes y Evaluación de la Calidad Eduacativa",
+      "url": ""
+    },
+    {
+      "id": 33,
+      "imagen": "",
+      "nombre": "Laura Niño",
+      "descripcion": "---",
+      "url": ""
+    },
+    {
+      "id": 34,
+      "imagen": "",
+      "nombre": "Libardo Acero",
+      "descripcion": "---",
+      "url": ""
+    },
+    {
+      "id": 35,
+      "imagen": "",
+      "nombre": "Andrés Gallego",
+      "descripcion": "---",
+      "url": ""
+    },
+    {
+      "id": 36,
+      "imagen": "",
+      "nombre": "Rodolfo Orjuela",
+      "descripcion": "---",
+      "url": ""
+    }
+  ]
+}
